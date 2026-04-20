@@ -1,4 +1,5 @@
 # Agentic AI Glasses: ESP32-S3 Real-Time Bridge
+![Uploading Timeline 1_01_00_01_33.jpg…]()
 
 This repository contains the firmware and bridging software to turn an ESP32-S3 (with camera and I2S microphone) into a real-time, voice-interactive, agentic AI peripheral. The system streams low-latency audio and video from the glasses to a local bridge script, which then pipes the data into the Google Gemini ADK (Agent Development Kit).
 
