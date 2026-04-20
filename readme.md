@@ -48,7 +48,7 @@ The system uses a dual-core streaming architecture to ensure fluid interaction:
 2. Ensure your Gemini ADK server is running locally on port `8009`.
 3. Run the bridge script:
    ```bash
-   python3 new.py
+   python3 streamer.py
    ```
 
 ## 📋 File Reference
